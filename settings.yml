@@ -1,8 +1,8 @@
 global:
-  name: CNCF Interactive Landscape
-  short_name: CNCF
-  mode: CNCF
-  repo: cncf/landscape
+  name: IT4IT Interactive Landscape
+  short_name: IT4IT
+  mode: IT4IT
+  repo: rakersh/IT4IT-landscape
   website: 'https://landscape.cncf.io'
   short_domain: l.cncf.io
   company_url: 'https://www.cncf.io'
